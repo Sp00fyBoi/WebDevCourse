@@ -1,0 +1,35 @@
+p {
+    font-family: Arial;
+}
+
+.kutta {
+    cursor: pointer;
+}
+
+.kutta:hover {
+    text-decoration: underline;
+}
+
+.text {
+    background-color: rgb(210, 5, 5);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    width: 600px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+
+.views {
+    color: rgb(98, 98, 98);
+    margin-top: 0px;
+}
